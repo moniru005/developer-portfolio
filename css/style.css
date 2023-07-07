@@ -129,3 +129,9 @@ main{
     justify-content: space-around;
     align-items: center;
 }
+.skill{
+    margin: 20px;
+    border: 0px solid rgb(201, 199, 199);
+    padding: 10px;
+    box-shadow:10px 10px 10px 5px #474747;
+}
