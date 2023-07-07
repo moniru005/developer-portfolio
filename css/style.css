@@ -110,3 +110,22 @@ main{
 .about-info{
     text-align: center;
 }
+/* What i do section style */
+
+.section-title{
+
+}
+.section-description{
+
+}
+#section-desc{
+    padding: 20px 150px;
+    line-height: 25px;
+    text-align: center;
+}
+
+.skill-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
