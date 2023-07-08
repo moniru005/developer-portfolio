@@ -45,10 +45,10 @@ nav a{
 /* Header related style */
 .header{
     background: #FFF8F3;
-    background-image: url('../images/header_bg.png');
-    background-size: 500px;
+    background-image: url('../images/header_bg.png'), url('../images/developer.png');
+    background-size: 500px, 76px;
     background-repeat: no-repeat;
-    background-position: bottom right;
+    background-position: bottom right, top left;
 
 }
 .banner{
